@@ -1,0 +1,14 @@
+/* font css */
+@import "../src/assets/fonts/razerf5.css";
+@import "../src/assets/fonts/roboto.css";
+/* global css  */
+@import "../src/assets/css/main.css";
+@import "../src/assets/css/nav.css";
+@import "../src/assets/css/dropdown.css";
+@import "../src/assets/css/switch.css";
+@import "../src/assets/css/slider.css";
+@import "../src/assets/css/checkbox.css";
+@import "../src/assets/css/tooltip.css";
+/* local css  */
+@import "../src/assets/css/body-widgets.css";
+@import "../src/assets/css/profile-bar.css";
